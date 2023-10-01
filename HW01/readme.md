@@ -3,7 +3,7 @@
 YouTube работает на защищенном протоколе HTTPS
 
 Очем свидетельствует замочек в адресной строке, а также это можно посмотреть в инструментах разработчика браузера Chrome.
-![картинка]([images\1_protocol.png](https://github.com/BlackbirdXX/WebTechnologies/blob/main/HW01/images/1_protocol.png)
+![картинка]([images\1_protocol.png](https://github.com/BlackbirdXX/WebTechnologies/blob/main/HW01/images/1_protocol.png))
 
 ### 2. Создайте файл 2_analyze.txt, в котором проанализируйте структуру страницы сайта https://ru.wikipedia.org/
 
